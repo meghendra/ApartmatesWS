@@ -1,5 +1,5 @@
-com/mycompany/apartmatesws/Roommate_.class
-com/mycompany/apartmatesws/service/AbstractFacade.class
-com/mycompany/apartmatesws/service/ApplicationConfig.class
-com/mycompany/apartmatesws/service/RoommateFacadeREST.class
-com/mycompany/apartmatesws/Roommate.class
+com\mycompany\apartmatesws\Roommate.class
+com\mycompany\apartmatesws\service\AbstractFacade.class
+com\mycompany\apartmatesws\Roommate_.class
+com\mycompany\apartmatesws\service\ApplicationConfig.class
+com\mycompany\apartmatesws\service\RoommateFacadeREST.class
